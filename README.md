@@ -16,7 +16,7 @@ For example the first screen is the playScreen, which is found in screens/playSc
 
 Each screen is implemented as a class, of which must have 3 functions:
 
-`init` which sets up event listens for the screen. This is not done in constructor as just before this the event listeners are completly reset.
+`init` which sets up event listens for the screen. This is not done in constructor as just before this the event listeners are completely reset.
 
 `update` where the updates happen eg move objects
 
@@ -50,3 +50,4 @@ The stage where the competition is being introduced to the competitors. Here the
 #### developementScreen:
 
 The stage where people are programming their hacks. Here the player must register players, serve food and drink, and order food and drink at local stores.
+
